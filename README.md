@@ -2,6 +2,20 @@
 Repositório de projeto da disciplina de REQ-T4. Equipe 2.
 
 # Sobre o projeto
+O Taatoowish é um software de Agendamento e Gerenciamento de
+Clientes, projetado para profissionais que oferecem serviços por agendamento.
+
+O software visa garantir que os profissionais possam agendar consultas sem conflitos, maximizando o uso do tempo e
+minimizando erros de agendamento.
+
+Também visa enviar automaticamente lembretes de consultas por meio de mensagens de texto e e-mail para reduzir
+faltas e garantir que os clientes cheguem às consultas pontualmente.
+
+Lidar com períodos de alta demanda, permitindo que os profissionais possam atendam a mais
+clientes durante esses momentos movimentados.
+
+E também fornecer um portfólio digital onde é possível exibir e promover seu trabalho para
+atrair novos clientes e aumentar sua visibilidade no mercado.
 
 
 # Integrantes
