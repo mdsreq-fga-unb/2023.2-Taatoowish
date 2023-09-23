@@ -1,2 +1,8 @@
 site_name: Taatoowish
+nav:
+  - Home: index.md
+repo_url: https://github.com/mdsreq-fga-unb/2023.2-Taatoowish
+repo_name: Taatoowish
+theme: 
+  name: material
 

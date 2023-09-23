@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Sobre o projeto
+O Taatoowish é um software de Agendamento e Gerenciamento de
+Clientes, projetado para profissionais que oferecem serviços por agendamento.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+O software visa garantir que os profissionais possam agendar consultas sem conflitos, maximizando o uso do tempo e
+minimizando erros de agendamento.
 
-## Commands
+Também visa enviar automaticamente lembretes de consultas por meio de mensagens de texto e e-mail para reduzir
+faltas e garantir que os clientes cheguem às consultas pontualmente.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Lidar com períodos de alta demanda, permitindo que os profissionais possam atendam a mais
+clientes durante esses momentos movimentados.
 
-## Project layout
+E também fornecer um portfólio digital onde é possível exibir e promover seu trabalho para
+atrair novos clientes e aumentar sua visibilidade no mercado.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Integrantes
+| Matrícula | Nome                                      |  GitHub                                          |                                                                         |
+| :-------: | ----------------------------------------- | ------------------------------------------------------- | :-----------------------------------------------------------------------: |
+| 211042327 | Carlos Gabriel Cardos Ramos               | [TheCarlosRamos](https://github.com/TheCarlosRamos)  |  <img src="https://github.com/TheCarlosRamos.png" width="60"> |
+| 211061850 | Henrique Azevedo Batalha                  | [HeBatalha](https://github.com/HeBatalha)   |  <img src="https://github.com/HeBatalha.png" width="60"> |
+| 211031600 | Arthur Augusto Rezende Da Paixao          | [arthur-augusto](https://github.com/arthur-augusto) | <img src="https://github.com/arthur-augusto.png" width="60"> |
+| 180113097 | Daniel Coimbra dos Santos | [DanielCoimbra](https://github.com/DanielCoimbra) | <img src="https://github.com/DanielCoimbra.png" width="60"> |
+| 200022199 | Leonardo Sobrinho de Aguiar | [Leonardo0o0](https://github.com/Leonardo0o0) | <img src="https://github.com/Leonardo0o0.png" width="60"> |
+| 202016560 | Igor Silva De Paiva | [IgorSPaiva](https://github.com/IgorSPaiva) | <img src="https://github.com/IgorSPaiva.png" width="60"> |
+
+
