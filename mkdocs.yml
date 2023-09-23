@@ -1,0 +1,32 @@
+site_name: Taatoowish
+nav:
+  - Home: index.md
+repo_url: https://github.com/mdsreq-fga-unb/2023.2-Taatoowish
+repo_name: Taatoowish
+theme:
+  language: pt-BR
+  name: material
+  logo: 
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/lightbulb-night
+        name: Switch to light mode
+
+
