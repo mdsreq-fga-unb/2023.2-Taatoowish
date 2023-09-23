@@ -1,5 +1,5 @@
 # 2023.2-Taatoowish
-Repositório de projeto da disciplina de REQ-T4. Equipe 2.
+Repositório de projeto da disciplina de REQ-T4. Equipe 2 (The Efficiency Revolution).
 
 # Sobre o projeto
 O Taatoowish é um software de Agendamento e Gerenciamento de
