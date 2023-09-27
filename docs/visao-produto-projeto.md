@@ -54,11 +54,80 @@ Fornecer um portfólio digital integrado onde os tatuadores possam exibir seu tr
 
 ### 1.4 Tecnologias a Serem Utilizadas
 
-Python; mkdocs; MySQL; Flutter; Twilio
+- Python 
+- mkdocs
+- MySQL
+- Flutter
+- Twilio
 
+## 2. Visão Geral do Projeto
+
+### 2.1 Organização do Projeto
+
+| Papel | Atribuições | Responsável | Participantes |
+| :--- | :--- | :--- | :--- |
+| Desenvolvedor | Codificar o produto, codificar testes unitários, realizar refatoração | Carlos Ramos | Henrique Batalha, Arthur Augusto, Daniel Coimbra, Leonardo Sobrinho, Igor Silva |
+| Dono do Produto | Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas | Arthur Augusto | Carlos Ramos, Henrique Batalha, Daniel Coimbra, Leonardo Sobrinho, Igor Silva |
+| Cliente | Validar as entregas e dar feedback em relação ao andamento do projeto | | | 
+
+### 2.2 Planejamento das Fases e/ou Iterações do Projeto
+
+| Sprint | Produto (Entrega) | Data Início | Data Fim |
+| :--- | :--- | :--- | :--- |
+| Sprint 0 | Definição do Produto | 05/09/2023 | 19/09/2023 |
+| Sprint 1 | Documento de Visão e Projeto | 19/09/2023 | 03/10/2023 |
+| Sprint 2 | Backlog do produto e MVP | 03/10/2023 | 17/10/2023 |
+| Sprint 3 | Organização das Sprints | 17/10/2023 | 31/10/2023 |
+| Sprint 4 | US01. US02, US03 | 31/10/2023 | 14/11/2023 |
+| Sprint 5 | US04, US05, US06 | 14/11/2023 | 28/11/2023 |
+| Sprint 6 | US07, US08, US09 | 28/11/2023 | 12/12/2023 |
+| Sprint 7 | Revisão final do Projeto | 12/12/2023 | 23/12/2023 |
+
+### 2.3 Matriz de Comunicação
+
+| Descrição | Área/Envolvidos | Periodicidade | Produtos Gerados |
+| :--- | :--- | :--- | :--- |
+| Sprint Planning | Equipe do Projeto | Quinzenal | Backlog da Sprint |
+| Sprint Review | Equipe do Projeto | Quinzenal | Revisão da Sprint |
+| Sprint Retrospective | Equipe do Projeto | Quinzenal | Lista de melhorias para a próxima Sprint |
+| Daily scrum | Equipe do Projeto | Diária | Relatório das atividades em andamento |
+
+### 2.4 Gerenciamento de Riscos
+
+| Risco | Causa | Correção |
+| :--- | :--- | :--- |
+| Redução da Equipe | Trancamento ou abandono da disciplina | Redefinição dos requisitos, possível diminuição de escopo |
+| Comunicação com o cliente insatisfatória | Incongruência de horário ou indisponibilidade | Mudança no funcionamento da participação do cliente. Tentar integrá-lo de forma mais eficiente |
+| Comprometimento baixo da Equipe | Dificuldades com o projeto, problemas externos, desinteresse | Reunião de status com a Equipe e re-atribuição de tarefas |
+| Comunicação da Equipe insatisfatória | Falta de comunicação entre os membros | Reunião de status com a Equipe e incentivar a Equipe a se comunicar |
+| Redução temporária da produtividade de um membro da Equipe | Problemas externos de saúde ou familiar | Comunicação com a Equipe e diminuição da carga de trabalho do membro |
+| Dificuldade na realização das tarefas | Falta de conhecimento das tecnologias ou capacitação | Re-avaliação da implementação da solução ou re-atribuição da  tarefa | 
+
+### 2.5 Critérios de Replanejamento
+
+Alterações nos Requisitos: Se houver mudanças significativas nos requisitos do projeto, como adição ou remoção de funcionalidades importantes, é necessário replanejar para acomodar essas alterações.
+
+Atrasos ou Adiantamentos: Quando ocorrem atrasos não planejados ou conclusões antecipadas de tarefas ou marcos, é importante replanejar para ajustar o cronograma e os recursos conforme necessário.
+
+Problemas de Recursos: Se houver escassez de recursos-chave, como falta de mão de obra qualificada, materiais ou financiamento insuficiente, um replanejamento pode ser necessário para resolver esses problemas.
+
+Mudanças nas Prioridades: À medida que o projeto avança, as prioridades podem mudar com base nas necessidades do cliente, nas condições do mercado ou em outros fatores externos. Replanejar ajuda a refletir essas mudanças nas atividades do projeto.
+
+Riscos Emergentes: Se novos riscos ou ameaças significativas surgirem durante a execução do projeto, é vital replanejar para mitigar esses riscos e garantir o sucesso contínuo.
+
+Feedback do Cliente: O feedback do cliente é fundamental. Se o cliente expressar insatisfação com o progresso ou os resultados do projeto, é importante replanejar para abordar essas preocupações e melhorar a satisfação do cliente.
+
+Mudanças Legais ou Regulatórias: Alterações nas leis, regulamentações ou requisitos legais podem exigir adaptações no projeto, incluindo alterações em processos ou documentação.
+
+Desempenho Insatisfatório: Se as métricas de desempenho do projeto indicarem resultados insatisfatórios, é crucial replanejar para melhorar o desempenho e alcançar os objetivos estabelecidos.
+
+Mudanças no Escopo: Qualquer expansão ou restrição no escopo do projeto, seja voluntária ou involuntária, requer um replanejamento para garantir que o projeto permaneça alinhado com os objetivos.
+
+Mudanças de Liderança: A saída ou entrada de novos membros da equipe de liderança pode afetar a direção e o foco do projeto, exigindo um replanejamento para alinhar a equipe e as expectativas.
 
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 27/09/2023 | 1.0 | Adicionando tópico 1 | Arthur Augusto |
+| 27/09/2023 | 1.1 | Adicionando tópico 2 | Henrique Batalha |
