@@ -125,6 +125,20 @@ Mudanças no Escopo: Qualquer expansão ou restrição no escopo do projeto, sej
 
 Mudanças de Liderança: A saída ou entrada de novos membros da equipe de liderança pode afetar a direção e o foco do projeto, exigindo um replanejamento para alinhar a equipe e as expectativas.
 
+## 3. Processo de Desenvolvimento de Software
+
+### 3.1 Processo de Engenharia de Software
+
+Com base no tempo disponível e nas características da nossa equipe, foi escolhida a abordagem ágil com a metodologia do ScrumXp. Esse conjunto nos ajuda a ter rapidez, qualidade e flexibilidade no desenvolvimento de um software. Além disso, a abordagem ágil tem ciclo de vida iterativo/incremental, o que nos possibilita entregar pequenas partes do projeto ao longo do tempo e ter um feedback contínuo, o que garante a qualidade do produto e ajuda a diminuir riscos.
+
+### 3.2 Processo de Engenharia de Requisitos
+
+Quanto ao processo relacionado a parte de requisitos, foi definido o modelo participativo para ser utilizado em nosso projeto. Esse modelo foi escolhido por conta da proximidade do cliente com o projeto, que resulta na maior participação do mesmo em feedbacks e em algumas partes do processo, como elicitação e descoberta, verificação e validação, e análise e consenso.
+
+![Flowchart](https://github.com/mdsreq-fga-unb/2023.2-Taatoowish/assets/82467659/a779f393-d161-432b-ac06-cc1ada078097)
+
+<center><small>Imagem 1- Expectativa de ciclo</small></center>
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor |
