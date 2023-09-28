@@ -139,9 +139,22 @@ Quanto ao processo relacionado a parte de requisitos, foi definido o modelo part
 
 <center><small>Imagem 1- Expectativa de ciclo</small></center>
 
+## 4. Atividades
+###  4.1. Atividade 1 - Requisitos
+| Atividade | Método | Ferramenta | Entrega |
+| :--- | :--- | :--- | :--- |
+| Elicitação e Descoberta | Entrevista | Discord | Em conversa com o cliente foi possível verificar dificuldades e possíveis formas de saná-las|
+| Análise e Consenso | Reunião | Discord | Integrantes do grupo e o cliente reunem para definir o projeto | 
+|Declaração|Histórias de usuário| Github e Miro | Comunição simples e clara, buscando uma leitura mais natural dos requisitos, facilitando o entendimento |
+| Organização e Atualização | Backlog do Produto | Kanban(Miro) | Facilita a visualização do trabalho, do que já foi feito, do que está em progresso e do que ainda será feito, aumenta o foco, evitando tarefas desnecessárias |
+| Representação|Protótipo | Figma | Representção gráfica dos requisitos, simulando a aplicação com nível de detalhe baixo e alto (Protótipo de baixa e alta fidelidade) |
+| Verificação e Validação | Revisão e Inspeção dos Requisitos | Google Docs| Análise, aprovação ou não dos requisitos   |
+
 ## Histórico de versão
 
 | Data | Versão | Descrição | Autor |
 | :--- | :--- | :--- | :--- |
 | 27/09/2023 | 1.0 | Adicionando tópico 1 | Arthur Augusto |
 | 27/09/2023 | 1.1 | Adicionando tópico 2 | Henrique Batalha |
+| 27/09/2023 | 1.2 | Adicionando tópico 3 | Leonardo Sobrinho |
+| 27/09/2023 | 1.3 | Adicionando tópico 4 | Daniel Coimbra |
