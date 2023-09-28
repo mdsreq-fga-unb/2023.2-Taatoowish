@@ -144,11 +144,29 @@ Quanto ao processo relacionado a parte de requisitos, foi definido o modelo part
 | Atividade | Método | Ferramenta | Entrega |
 | :--- | :--- | :--- | :--- |
 | Elicitação e Descoberta | Entrevista | Discord | Em conversa com o cliente foi possível verificar dificuldades e possíveis formas de saná-las|
-| Análise e Consenso | Reunião | Discord | Integrantes do grupo e o cliente reunem para definir o projeto | 
-|Declaração|Histórias de usuário| Github e Miro | Comunição simples e clara, buscando uma leitura mais natural dos requisitos, facilitando o entendimento |
-| Organização e Atualização | Backlog do Produto | Kanban(Miro) | Facilita a visualização do trabalho, do que já foi feito, do que está em progresso e do que ainda será feito, aumenta o foco, evitando tarefas desnecessárias |
-| Representação|Protótipo | Figma | Representção gráfica dos requisitos, simulando a aplicação com nível de detalhe baixo e alto (Protótipo de baixa e alta fidelidade) |
-| Verificação e Validação | Revisão e Inspeção dos Requisitos | Google Docs| Análise, aprovação ou não dos requisitos   |
+| Análise e Consenso | Reunião | Discord | Integrantes do grupo e o cliente se reúnem para definir o projeto | 
+| Declaração | Histórias de usuário | Github e Miro | Comunicação simples e clara, buscando uma leitura mais natural dos requisitos, facilitando o entendimento |
+| Organização e Atualização | Backlog do Produto | Kanban(Miro) | Facilita a visualização do trabalho, do que já foi feito, o que está em progresso e o que ainda será feito; aumenta o foco, evitando tarefas desnecessárias e encurtando tempo ocioso |
+| Representação | Protótipo | Figma | Representação gráfica dos requisitos, com simulações da aplicação apresentando nível de detalhe baixo e alto (Protótipo de baixa e alta fidelidade) |
+| Verificação e Validação | Revisão e inspeção dos requisitos | Google Docs | Análise, aprovação ou reprovação das entregas, comparadas aos requisitos |
+
+### 4.2 Atividade 2 - Design
+| Atividade | Método | Ferramenta | Entrega |
+| :--- | :--- | :--- | :--- |
+| Interface de usuário | Protótipo de Baixa Fidelidade | Desenho à mão/Figma | Esboço inicial do visual da aplicação |
+| Interface de usuário | Protótipo de Alta Fidelidade | Figma | Protótipo mais fiél á interface gráfica do produto final |
+
+### 4.3 Atividade 3 - Construção
+| Atividade | Método | Ferramenta | Entrega |
+| :--- | :--- | :--- | :--- |
+| Implementação do MVP1 | Programação em pares | Discord | Desenvolvimento e execução/entrega das Sprints |
+| Validação do produto com o cliente | Reunião | Discord | Validação dos requisitos a cada entrega |
+
+### 4.4 Atividade 4 - Teste
+| Atividade | Método | Ferramenta | Entrega |
+| :--- | :--- | :--- | :--- |
+| Testes individuais do código e métodos da aplicação | Teste unitário | VsCode | Detecção ágil de erros no desenvolvimento, acelerando a correção de bus e diminuindo custo futuro |
+
 
 ## Histórico de versão
 
