@@ -2,6 +2,7 @@ site_name: Taatoowish
 nav:
   - Home: index.md
   - Visão do Produto e Projeto: visao-produto-projeto.md
+  - Apresentações: apresentação.md
 repo_url: https://github.com/mdsreq-fga-unb/2023.2-Taatoowish
 repo_name: Taatoowish
 theme:
