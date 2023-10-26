@@ -11,7 +11,7 @@
 
 ## Requisitos Funcionais
 
-<img src="../Files/Backlog%20Produto_2023-10-26_03-48-49.jpg">
+<img src="https://github.com/mdsreq-fga-unb/2023.2-Taatoowish/blob/main/Files/Backlog%20Produto_2023-10-26_03-48-49.jpg?raw=true">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -196,9 +196,9 @@ Priorizamos primeiramente os Épicos, depois priorizamos as features de um mesmo
 
 ### Features
 
-<img src="../Files/priorizacao0.jpg">
+<img src="https://github.com/mdsreq-fga-unb/2023.2-Taatoowish/blob/main/Files/priorizacao0.jpg?raw=true">
 
-<img src="../Files/priorizacao1.jpg">
+<img src="https://github.com/mdsreq-fga-unb/2023.2-Taatoowish/blob/main/Files/priorizacao1.jpg?raw=true">
 
 ## MVP's
 
