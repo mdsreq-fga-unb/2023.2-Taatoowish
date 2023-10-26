@@ -29,7 +29,9 @@ Enviar automaticamente lembretes de consultas por meio de mensagens de texto e e
 
 Lidar com períodos de alta demanda, permitindo que os tatuadores atendam a mais clientes durante esses momentos movimentados.
 
-Fornecer um portfólio digital integrado onde os tatuadores possam exibir seu trabalho.
+Fornecer um portfólio digital integrado de todos os tatuadores do estúdio.
+
+Visualizar dados do estúdio para que o administrador tome melhores decisões.
 
 ### 1.4 Tecnologias a Serem Utilizadas
 
