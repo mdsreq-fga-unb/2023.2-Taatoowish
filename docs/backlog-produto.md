@@ -11,7 +11,7 @@
 
 ## Requisitos Funcionais
 
-![Mural Backlog do Produto](../Files/Backlog%20Produto_2023-10-26_03-48-49.jpg)
+<img src="../Files/Backlog%20Produto_2023-10-26_03-48-49.jpg">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -196,9 +196,9 @@ Priorizamos primeiramente os Épicos, depois priorizamos as features de um mesmo
 
 ### Features
 
-![Features priorizadas 1](../Files/priorizacao0.jpg)
+<img src="../Files/priorizacao0.jpg">
 
-![Features priorizadas 2](../Files/priorizacao1.jpg)
+<img src="../Files/priorizacao1.jpg">
 
 ## MVP's
 
